@@ -37,7 +37,11 @@ public class RemoveRepeatNode {
 
     }
 
-
+    /**
+     * 移除重复的节点
+     *
+     * @param head
+     */
     public static void removeRep(Node head) {
         if (head == null) {
             return;

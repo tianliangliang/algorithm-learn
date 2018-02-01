@@ -8,6 +8,8 @@ import java.util.Stack;
 public class RemoveValue {
     public static void main(String[] args) {
 
+        String aa = "a";
+        aa.equals("44");
 
         Node head = new Node(0);
         Node cur = head;
